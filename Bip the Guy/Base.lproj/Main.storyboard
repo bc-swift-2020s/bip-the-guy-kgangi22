@@ -16,7 +16,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="image0" translatesAutoresizingMaskIntoConstraints="NO" id="dV1-aD-F63">
-                                <rect key="frame" x="16" y="20" width="288" height="384.00000000000006"/>
+                                <rect key="frame" x="16" y="20" width="288" height="384"/>
                                 <gestureRecognizers/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="383.99999999999994" id="t0f-R0-iDc"/>
